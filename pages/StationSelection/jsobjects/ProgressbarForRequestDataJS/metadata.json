@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ProgressbarForRequestDataJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StationSelection_ProgressbarForRequestDataJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_651daa142fe3ce479e65bf52"
+}

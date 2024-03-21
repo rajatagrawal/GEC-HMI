@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "ApiJS",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "responsestatus",
+        "value": "''"
+      },
+      {
+        "name": "application",
+        "value": "'frontend.global.user'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_ApiJS",
+  "deleted": false,
+  "gitSyncId": "65b8970b08304128513d990c_65b8e15adb79425bbf5e05b7"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "GeneratePdfFileJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Workorders_GeneratePdfFileJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_65344d7d01fd2218c24b3dd4"
+}

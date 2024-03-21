@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "RefreshTokenJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "startTokenTime",
+        "value": "0"
+      },
+      {
+        "name": "startExpiresTokenJwt",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_RefreshTokenJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_6508af19f40b7e51e20bd263"
+}

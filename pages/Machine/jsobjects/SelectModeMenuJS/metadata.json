@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "SelectModeMenuJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentItemTheme",
+        "value": "\"\""
+      },
+      {
+        "name": "paramsData",
+        "value": "{}"
+      },
+      {
+        "name": "MainMenuData",
+        "value": "[{\n  \"id\": \"001\",\n  \"navigateTo\": \"Workorders\",\n  \"text\": TextJS[appsmith.store.LANG].NAVIGATION_MENU.WORKORDERS,\n  \"theme\": \"secondary\"\n}, {\n  \"id\": \"002\",\n  \"navigateTo\": \"Machine\",\n  \"text\": TextJS[appsmith.store.LANG].NAVIGATION_MENU.MACHINE,\n  \"theme\": \"primary\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_SelectModeMenuJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6538f7cd6fc03a7630e5ec77"
+}

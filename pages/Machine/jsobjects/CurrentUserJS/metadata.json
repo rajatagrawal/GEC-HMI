@@ -1,0 +1,48 @@
+{
+  "unpublishedCollection": {
+    "name": "CurrentUserJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "allPlantsForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "defaultPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "getPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "dateAndTimeLastDeployedOrCurrentDay",
+        "value": "\"\""
+      },
+      {
+        "name": "fromWhereDateAndTimeLastDiployed",
+        "value": "\"\""
+      },
+      {
+        "name": "compilationVersion",
+        "value": "\"\""
+      },
+      {
+        "name": "attributeConfigValues",
+        "value": "[]"
+      },
+      {
+        "name": "userNameAndPlantToShow",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_CurrentUserJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_652d1b40c4da743ace519cad"
+}

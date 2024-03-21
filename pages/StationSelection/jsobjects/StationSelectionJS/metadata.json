@@ -1,0 +1,52 @@
+{
+  "unpublishedCollection": {
+    "name": "StationSelectionJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "stations",
+        "value": "[]"
+      },
+      {
+        "name": "stationsGroup",
+        "value": "[]"
+      },
+      {
+        "name": "optionsToSelectLine",
+        "value": "[]"
+      },
+      {
+        "name": "defaultOptionToSelectLine",
+        "value": "undefined"
+      },
+      {
+        "name": "optionsToSelectStationGroup",
+        "value": "[]"
+      },
+      {
+        "name": "defaultOptionToSelectStationGroup",
+        "value": "undefined"
+      },
+      {
+        "name": "disableStationGroupSelectField",
+        "value": "false"
+      },
+      {
+        "name": "dataListToDisplay",
+        "value": "[]"
+      },
+      {
+        "name": "defaultValueToSelectLine",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_StationSelectionJS",
+  "deleted": false,
+  "gitSyncId": "64fb7d696cd14454f69542a6_650036a659ebcb1cf99b838d"
+}

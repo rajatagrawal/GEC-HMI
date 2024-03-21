@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "TimeHorizonWorkordersModalJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "formError",
+        "value": "false"
+      },
+      {
+        "name": "msgError",
+        "value": "\"\""
+      },
+      {
+        "name": "msgErrorToTooltip",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_TimeHorizonWorkordersModalJS",
+  "deleted": false,
+  "gitSyncId": "657aa7ec4f36f5296e323be9_657c0768a37458661c47c1fc"
+}

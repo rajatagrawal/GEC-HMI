@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "FinishWorkorderJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Workorders_FinishWorkorderJS",
+  "deleted": false,
+  "gitSyncId": "650cae320a62ff2d10818615_650d42d1f6563b31c3f143ba"
+}

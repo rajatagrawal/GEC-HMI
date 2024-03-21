@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "TextJS",
+    "pageId": "SetupListInNewTab",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "en",
+        "value": "{\n  \"SELECTED_LINE_LOAD_DATA_ERROR\": \"Data loading error\",\n  \"SUCCESS_LOGOUT\": \"Success logout\",\n  \"SESSION_EXPIRED\": \"Session expired > Please log in again\",\n  \"OPERATOR_INFORMATION_HEADER\": \"Operator information\",\n  \"STATION_INFORMATION_HEADER\": \"Station information\",\n  \"WORKORDER_INFORMATION_HEADER\": \"Workorder information\",\n  \"SETUP_LIST_HEADER\": \"Setup list\",\n  \"SETUP_LIST\": {\n    \"PART_NAME\": \"Part name\",\n    \"PART_DESCRIPTION\": \"Part description\",\n    \"QUANTITY\": \"Quantity\",\n    \"UNIT\": \"Unit\"\n  },\n  \"PDF\": {\n    \"WORKORDER_NAME\": \"Workorder name\",\n    \"STATION_NAME\": \"Station name\"\n  },\n  \"SYSTEM_INFORMATION_MODAL\": {\n    \"DEFAULT_PLACEHOLDER_SELECT_OPTION\": \"Select option\",\n    \"LANG\": {\n      \"HEADER\": \"Language\",\n      \"EN\": \"English\",\n      \"DE\": \"Deutsch\",\n      \"IT\": \"Italian\"\n    },\n    \"USER_INFORMATION\": {\n      \"PLANT_CURRENT_USER_LABEL\": \"Plant\"\n    },\n    \"SYSTEM_INFORMATION\": {\n      \"HEADER\": \"System information\",\n      \"COMPILATION_VERSION\": \"Compilation version\",\n      \"LAST_DEPLOYED\": \"Last deployed\"\n    }\n  },\n  \"ALERTS\": {\n    \"PLANT_CHANGE\": {\n      \"SUCCESS\": \"Selected plant has been changed\"\n    },\n    \"LANG_CHANGE\": {\n      \"SUCCESS\": \"Selected language has been changed\"\n    }\n  }\n}"
+      },
+      {
+        "name": "de",
+        "value": "{\n  \"SELECTED_LINE_LOAD_DATA_ERROR\": \"Fehler beim Laden der Daten\",\n  \"SUCCESS_LOGOUT\": \"Erfolgreich abgemeldet\",\n  \"SESSION_EXPIRED\": \"Sitzung abgelaufen > Bitte erneut anmelden\",\n  \"OPERATOR_INFORMATION_HEADER\": \"Werkerinformationen\",\n  \"STATION_INFORMATION_HEADER\": \"Stationsinformationen\",\n  \"WORKORDER_INFORMATION_HEADER\": \"Aktiver Auftrag\",\n  \"SETUP_LIST_HEADER\": \"St��ckliste\",\n  \"SETUP_LIST\": {\n    \"PART_NAME\": \"Artikel\",\n    \"PART_DESCRIPTION\": \"Artikelbeschreibung\",\n    \"QUANTITY\": \"Menge\",\n    \"UNIT\": \"Einheit\"\n  },\n  \"PDF\": {\n    \"WORKORDER_NAME\": \"Name des Auftrags\",\n    \"STATION_NAME\": \"Name der Station\"\n  },\n  \"SYSTEM_INFORMATION_MODAL\": {\n    \"DEFAULT_PLACEHOLDER_SELECT_OPTION\": \"Option ausw��hlen\",\n    \"LANG\": {\n      \"HEADER\": \"Sprache\",\n      \"EN\": \"Englisch\",\n      \"DE\": \"Deutsch\",\n      \"IT\": \"Italienisch\"\n    },\n    \"USER_INFORMATION\": {\n      \"PLANT_CURRENT_USER_LABEL\": \"Werk\"\n    },\n    \"SYSTEM_INFORMATION\": {\n      \"HEADER\": \"Informationen zum System\",\n      \"COMPILATION_VERSION\": \"Version\",\n      \"LAST_DEPLOYED\": \"Zuletzt bereitgestellt\"\n    }\n  },\n  \"ALERTS\": {\n    \"PLANT_CHANGE\": {\n      \"SUCCESS\": \"Ausgew��hltes Werk wurde ge��ndert\"\n    },\n    \"LANG_CHANGE\": {\n      \"SUCCESS\": \"Die ausgew��hlte Sprache wurde ge��ndert\"\n    }\n  }\n}"
+      },
+      {
+        "name": "it",
+        "value": "{\n  \"SELECTED_LINE_LOAD_DATA_ERROR\": \"Errore di caricamento dei dati per la linea selezionata\",\n  \"SUCCESS_LOGOUT\": \"Disconnessione riuscita\",\n  \"SESSION_EXPIRED\": \"Sessione scaduta > Accedere di nuovo\",\n  \"OPERATOR_INFORMATION_HEADER\": \"Informazioni sull'operatore\",\n  \"STATION_INFORMATION_HEADER\": \"Informazioni sulle stazioni\",\n  \"WORKORDER_INFORMATION_HEADER\": \"Ordine attivo\",\n  \"SETUP_LIST_HEADER\": \"Distinta base\",\n  \"SETUP_LIST\": {\n    \"PART_NAME\": \"Articolo\",\n    \"PART_DESCRIPTION\": \"Descrizione dell'articolo\",\n    \"QUANTITY\": \"Quantita\",\n    \"UNIT\": \"Unita\"\n  },\n  \"PDF\": {\n    \"WORKORDER_NAME\": \"Nome dell'ordine\",\n    \"STATION_NAME\": \"Nome della stazione\"\n  },\n  \"SYSTEM_INFORMATION_MODAL\": {\n    \"DEFAULT_PLACEHOLDER_SELECT_OPTION\": \"Selezionare l'opzione\",\n    \"LANG\": {\n      \"HEADER\": \"Lingua\",\n      \"EN\": \"Inglese\",\n      \"DE\": \"Tedesco\",\n      \"IT\": \"Italiano\"\n    },\n    \"USER_INFORMATION\": {\n      \"PLANT_CURRENT_USER_LABEL\": \"Impianto\"\n    },\n    \"SYSTEM_INFORMATION\": {\n      \"HEADER\": \"Informazioni sul sistema\",\n      \"COMPILATION_VERSION\": \"Versione\",\n      \"LAST_DEPLOYED\": \"Ultimo intervento\"\n    }\n  },\n  \"ALERTS\": {\n    \"PLANT_CHANGE\": {\n      \"SUCCESS\": \"L'impianto selezionato �� stato modificato\"\n    },\n    \"LANG_CHANGE\": {\n      \"SUCCESS\": \"Il linguaggio selezionato �� stato modificato\"\n    }\n  }\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "SetupListInNewTab_TextJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6530c12d85dbdb51cfcca82a"
+}

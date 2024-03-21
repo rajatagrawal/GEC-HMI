@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "RefreshDateAndTimeJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentDateAndTime",
+        "value": "\"\""
+      },
+      {
+        "name": "expiresTimeJwt",
+        "value": "appsmith.store.expires_time_jwt"
+      },
+      {
+        "name": "refreshExpiresTimeJwt",
+        "value": "appsmith.store.refresh_expires_time_jwt"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_RefreshDateAndTimeJS",
+  "deleted": false,
+  "gitSyncId": "65eefab5626eb961fa2941c1_65f2d6fb5312e320cc6bd98d"
+}

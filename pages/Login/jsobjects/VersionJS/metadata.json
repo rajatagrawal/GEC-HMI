@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "VersionJS",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "COMPILATION_VERSION",
+        "value": "\"1.34.0_94\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_VersionJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_651e8a2060bd3263243bab9e"
+}

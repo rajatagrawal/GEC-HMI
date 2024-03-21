@@ -1,0 +1,68 @@
+{
+  "unpublishedPage": {
+    "name": "StationSelection",
+    "slug": "stationselection",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1000,
+          "containerStyle": "none",
+          "snapRows": 78,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 89,
+          "minHeight": 800,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "StationSelection_RefreshTokenJS.resetCounter",
+              "name": "RefreshTokenJS.resetCounter",
+              "collectionId": "StationSelection_RefreshTokenJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "function () {\n  RefreshTokenJS.startExpiresTokenJwt = moment();\n  RefreshTokenJS.startTokenTime = moment();\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "StationSelection_StartJS.onStart",
+              "name": "StartJS.onStart",
+              "collectionId": "StationSelection_StartJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "async function () {\n  const code = appsmith.URL.queryParams.code;\n  if (code) {\n    await StartJS.getToken(code);\n  }\n  if (!appsmith.store.LANG) {\n    await storeValue('LANG', \"en\");\n  }\n  if (appsmith.store.PROFILE === 'dev' || appsmith.store.PROFILE === 'prod' && code === undefined) {\n    await StartJS.runInitRequests();\n  }\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "StationSelection",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "64fb7d696cd14454f69542a6_650036a659ebcb1cf99b8369"
+}

@@ -1,0 +1,51 @@
+{
+    "widgetName": "FormHeader",
+    "displayName": "Text",
+    "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
+    "searchTags": [
+        "typography",
+        "paragraph",
+        "label"
+    ],
+    "topRow": 0,
+    "bottomRow": 7,
+    "type": "TEXT_WIDGET",
+    "hideCard": false,
+    "shouldScrollContents": true,
+    "animateLoading": true,
+    "overflow": "NONE",
+    "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "dynamicTriggerPathList": [],
+    "leftColumn": 0,
+    "dynamicBindingPathList": [
+        {"key": "truncateButtonColor"},
+        {"key": "fontFamily"},
+        {"key": "borderRadius"},
+        {"key": "text"}
+    ],
+    "shouldTruncate": false,
+    "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "text": "{{ TextJS.LOGIN_FORM_HEADER }}",
+    "key": "o1o7i0m8se",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "textAlign": "CENTER",
+    "dynamicHeight": "FIXED",
+    "widgetId": "5d5p9lgqfy",
+    "minWidth": 450,
+    "isVisible": true,
+    "fontStyle": "",
+    "textColor": "#231F20",
+    "version": 1,
+    "parentId": "n85rco0wra",
+    "tags": [
+        "Suggested",
+        "Content"
+    ],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 7,
+    "fontSize": "1.875rem",
+    "minDynamicHeight": 4
+}

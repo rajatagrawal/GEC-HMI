@@ -1,0 +1,44 @@
+{
+  "unpublishedCollection": {
+    "name": "LoginPageJS",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentUserName",
+        "value": "\"\""
+      },
+      {
+        "name": "currentUserData",
+        "value": "\"\""
+      },
+      {
+        "name": "attributeConfigValues",
+        "value": "[]"
+      },
+      {
+        "name": "allPlantsForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "defaultPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "getPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "newObjectWithAllPlantsForCurrentUser",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_LoginPageJS",
+  "deleted": false,
+  "gitSyncId": "64fb7d696cd14454f69542a6_64fb88116cd14454f69542bb"
+}

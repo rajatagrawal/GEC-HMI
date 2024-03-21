@@ -1,0 +1,64 @@
+{
+  "unpublishedCollection": {
+    "name": "WorkordersJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentRow",
+        "value": "\"\""
+      },
+      {
+        "name": "idWorkorder",
+        "value": "\"\""
+      },
+      {
+        "name": "workorderWorkstepId",
+        "value": "\"\""
+      },
+      {
+        "name": "workorders",
+        "value": "[]"
+      },
+      {
+        "name": "workorderProductionHistory",
+        "value": "[]"
+      },
+      {
+        "name": "activatedWorkorder",
+        "value": "[]"
+      },
+      {
+        "name": "queryParams",
+        "value": "{}"
+      },
+      {
+        "name": "setupList",
+        "value": "[]"
+      },
+      {
+        "name": "quantityPass",
+        "value": "0"
+      },
+      {
+        "name": "quantityFail",
+        "value": "0"
+      },
+      {
+        "name": "quantityScrap",
+        "value": "0"
+      },
+      {
+        "name": "firstElement",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Workorders_WorkordersJS",
+  "deleted": false,
+  "gitSyncId": "64fb7d696cd14454f69542a6_64fb8a086cd14454f69542d4"
+}

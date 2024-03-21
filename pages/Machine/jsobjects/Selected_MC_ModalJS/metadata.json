@@ -1,0 +1,44 @@
+{
+  "unpublishedCollection": {
+    "name": "Selected_MC_ModalJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "maximumNumberOfMarks",
+        "value": "200"
+      },
+      {
+        "name": "comment",
+        "value": "\"\""
+      },
+      {
+        "name": "numberOfMarksRemainingToBeEntered",
+        "value": "0"
+      },
+      {
+        "name": "currentDateAndTime",
+        "value": "\"\""
+      },
+      {
+        "name": "organizationUnitConditionId",
+        "value": "\"\""
+      },
+      {
+        "name": "maxDate",
+        "value": "\"\""
+      },
+      {
+        "name": "msgError",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_Selected_MC_ModalJS",
+  "deleted": false,
+  "gitSyncId": "654b767a25ab28514eaca963_654c98dce461a00f9bc8892b"
+}

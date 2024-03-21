@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ProgressbarForRequestDataJS",
+    "pageId": "SetupListInNewTab",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "SetupListInNewTab_ProgressbarForRequestDataJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6530c12d85dbdb51cfcca83c"
+}

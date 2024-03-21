@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "LogoutJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Workorders_LogoutJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_6509804e7473ff6ef432e1d6"
+}

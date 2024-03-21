@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "StartJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "StationSelection_StartJS",
+  "deleted": false,
+  "gitSyncId": "651a726e785daf1830935c83_651a72d4785daf1830935cff"
+}

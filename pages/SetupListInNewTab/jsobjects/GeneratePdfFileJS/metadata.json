@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "GeneratePdfFileJS",
+    "pageId": "SetupListInNewTab",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "SetupListInNewTab_GeneratePdfFileJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6534485101fd2218c24b3dc5"
+}

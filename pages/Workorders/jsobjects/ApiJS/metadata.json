@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ApiJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "application",
+        "value": "'frontend.global.user'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Workorders_ApiJS",
+  "deleted": false,
+  "gitSyncId": "650cae320a62ff2d10818615_65129b1214888200781e523d"
+}

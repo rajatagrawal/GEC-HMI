@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "RefreshDateAndTimeJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentDateAndTime",
+        "value": "\"\""
+      },
+      {
+        "name": "expiresTimeJwt",
+        "value": "appsmith.store.expires_time_jwt"
+      },
+      {
+        "name": "refreshExpiresTimeJwt",
+        "value": "appsmith.store.refresh_expires_time_jwt"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_RefreshDateAndTimeJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_650991897473ff6ef432e245"
+}

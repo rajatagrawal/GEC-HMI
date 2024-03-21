@@ -1,0 +1,32 @@
+{
+  "unpublishedCollection": {
+    "name": "SetupWorkstepTableJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "setupList",
+        "value": "[]"
+      },
+      {
+        "name": "isPausePrev",
+        "value": "false"
+      },
+      {
+        "name": "isFinishPrev",
+        "value": "false"
+      },
+      {
+        "name": "countOfColumnsWorksteps",
+        "value": "25"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Workorders_SetupWorkstepTableJS",
+  "deleted": false,
+  "gitSyncId": "65ca2f23e93895250ee5b9df_65ca34a4e93895250ee5bb6e"
+}

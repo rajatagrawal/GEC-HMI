@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ConfigJS",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "DEFAULT",
+        "value": "{\n  BASE_KEYCLOAK_URL: \"keycloak.apps.dev.aws.alm.oncite.io\",\n  BASE_SMARTMOM_API_URL: \"smartmom.apps.dev.aws.alm.oncite.io\",\n  KEYCLOAK_CLIENT_ID: \"smartmom\",\n  PROFILE: \"dev\",\n  APPSMITH_PAGE_ENDING: \"/edit?branch=main\",\n  TOKEN_CLIENT_ID: \"94e68ad50b754a87a20e96ce10106c89\",\n  TOKEN_CLIENT_SECRET: \"611f5c8bb40E437Eb1FC9707559A8Dc0\",\n  URL_EXTERNAL_DOCUMENT: \"https://appsmith-test.apps.dev.aws.alm.oncite.io/index.html\"\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_ConfigJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_6503fca9cf2db917db300536"
+}

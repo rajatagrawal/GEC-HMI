@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "CommentWorkorderJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "maximumNumberOfMarks",
+        "value": "120"
+      },
+      {
+        "name": "comment",
+        "value": "\"\""
+      },
+      {
+        "name": "numberOfMarksRemainingToBeEntered",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Workorders_CommentWorkorderJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_653659b61ae6eb19ea04cb09"
+}

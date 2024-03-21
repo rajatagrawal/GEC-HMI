@@ -1,0 +1,40 @@
+{
+  "unpublishedCollection": {
+    "name": "TextJS",
+    "pageId": "Login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "LOGIN_FORM_HEADER",
+        "value": "\"Sign in to your account\""
+      },
+      {
+        "name": "LOGIN_SUCCESS",
+        "value": "\"Suscess login\""
+      },
+      {
+        "name": "LOGIN_ERROR",
+        "value": "\"Invalid user data\""
+      },
+      {
+        "name": "INPUT_USER_NAME",
+        "value": "\"Username\""
+      },
+      {
+        "name": "INPUT_PASSWORD",
+        "value": "\"Password\""
+      },
+      {
+        "name": "SIGN_IN_BTN",
+        "value": "\"Sign In\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Login_TextJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_6508a6dff40b7e51e20bd237"
+}

@@ -1,0 +1,82 @@
+{
+  "unpublishedPage": {
+    "name": "SetupListInNewTab",
+    "slug": "setuplistinnewtab",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 720,
+          "containerStyle": "none",
+          "snapRows": 78,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 89,
+          "minHeight": 800,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0
+        },
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "SetupListInNewTab_CurrentUserJS.getCurrentUserDataForSetupListInNewTab",
+              "name": "CurrentUserJS.getCurrentUserDataForSetupListInNewTab",
+              "collectionId": "SetupListInNewTab_CurrentUserJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "SetupListInNewTab_RefreshDateAndTimeJS.refreshDateAndTime",
+              "name": "RefreshDateAndTimeJS.refreshDateAndTime",
+              "collectionId": "SetupListInNewTab_RefreshDateAndTimeJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "SetupListInNewTab_RefreshTokenJS.resetCounter",
+              "name": "RefreshTokenJS.resetCounter",
+              "collectionId": "SetupListInNewTab_RefreshTokenJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "SetupListInNewTab_SetupListInNewTabJS.getDataSetupList",
+              "name": "SetupListInNewTabJS.getDataSetupList",
+              "collectionId": "SetupListInNewTab_SetupListInNewTabJS",
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "SetupListInNewTab",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6530c12c85dbdb51cfcca7ee"
+}

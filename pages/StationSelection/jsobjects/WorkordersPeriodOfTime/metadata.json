@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "WorkordersPeriodOfTime",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "periodOfTime",
+        "value": "{\n  toDate: \"\",\n  hoursAhead: \"\"\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_WorkordersPeriodOfTime",
+  "deleted": false,
+  "gitSyncId": "657aa7ec4f36f5296e323be9_657ab7e84f36f5296e323d28"
+}

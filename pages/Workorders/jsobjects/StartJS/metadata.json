@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "StartJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Workorders_StartJS",
+  "deleted": false,
+  "gitSyncId": "65d71b6cf3f2ef61537d01eb_65d88465f3f2ef61537d0c2b"
+}

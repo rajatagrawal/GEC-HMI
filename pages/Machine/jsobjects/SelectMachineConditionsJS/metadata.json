@@ -1,0 +1,72 @@
+{
+  "unpublishedCollection": {
+    "name": "SelectMachineConditionsJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "conditionList",
+        "value": "[]"
+      },
+      {
+        "name": "machineAllConditionForSelected_MC_Groups",
+        "value": "[]"
+      },
+      {
+        "name": "maxItemsOnPageMachineCondition",
+        "value": "9"
+      },
+      {
+        "name": "splittingDataOf_MC_ToShowIntoThreeColumns",
+        "value": "[[], [], []]"
+      },
+      {
+        "name": "startIndex_MC",
+        "value": "0"
+      },
+      {
+        "name": "tmpCounter_MC",
+        "value": "0"
+      },
+      {
+        "name": "currentPage_MC",
+        "value": "1"
+      },
+      {
+        "name": "allPagesMachineCondition",
+        "value": "1"
+      },
+      {
+        "name": "disabledPreviousPage_MC_BTN",
+        "value": "true"
+      },
+      {
+        "name": "disabledNextPage_MC_BTN",
+        "value": "false"
+      },
+      {
+        "name": "countOfElementsOnTheLastPage",
+        "value": "0"
+      },
+      {
+        "name": "hide_MC_List1",
+        "value": "false"
+      },
+      {
+        "name": "hide_MC_List2",
+        "value": "false"
+      },
+      {
+        "name": "hide_MC_List3",
+        "value": "false"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_SelectMachineConditionsJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6545f460b049352b39cdd271"
+}

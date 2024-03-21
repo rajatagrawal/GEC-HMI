@@ -1,0 +1,56 @@
+{
+  "unpublishedCollection": {
+    "name": "PartConfirmationModalJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "partConfirmationData",
+        "value": "[]"
+      },
+      {
+        "name": "element",
+        "value": "{}"
+      },
+      {
+        "name": "passForRequest",
+        "value": "\"\""
+      },
+      {
+        "name": "reworkForRequest",
+        "value": "\"\""
+      },
+      {
+        "name": "scrapForRequest",
+        "value": "\"\""
+      },
+      {
+        "name": "formError",
+        "value": "false"
+      },
+      {
+        "name": "msgError",
+        "value": "\"\""
+      },
+      {
+        "name": "passValue",
+        "value": "0"
+      },
+      {
+        "name": "failValue",
+        "value": "0"
+      },
+      {
+        "name": "scrapValue",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Workorders_PartConfirmationModalJS",
+  "deleted": false,
+  "gitSyncId": "655f7c2d0ca33872174ef086_655f86d30ca33872174ef17c"
+}

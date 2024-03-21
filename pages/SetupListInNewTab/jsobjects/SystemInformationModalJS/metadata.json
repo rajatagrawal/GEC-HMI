@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "SystemInformationModalJS",
+    "pageId": "SetupListInNewTab",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "languageList",
+        "value": "[{\n  id: \"en\",\n  name: TextJS[appsmith.store.LANG].SYSTEM_INFORMATION_MODAL.LANG.EN\n}, {\n  id: \"de\",\n  name: TextJS[appsmith.store.LANG].SYSTEM_INFORMATION_MODAL.LANG.DE\n}, {\n  id: \"it\",\n  name: TextJS[appsmith.store.LANG].SYSTEM_INFORMATION_MODAL.LANG.IT\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "SetupListInNewTab_SystemInformationModalJS",
+  "deleted": false,
+  "gitSyncId": "659510730b78a51d90cb6870_659bd3036309a84a5488e6f7"
+}

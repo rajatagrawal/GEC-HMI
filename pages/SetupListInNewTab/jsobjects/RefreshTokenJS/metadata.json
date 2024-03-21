@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "RefreshTokenJS",
+    "pageId": "SetupListInNewTab",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "startTokenTime",
+        "value": "0"
+      },
+      {
+        "name": "startExpiresTokenJwt",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "SetupListInNewTab_RefreshTokenJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_6530c12d85dbdb51cfcca83a"
+}

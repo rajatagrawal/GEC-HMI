@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "GetDateAndTimeJS",
+    "pageId": "Workorders",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Workorders_GetDateAndTimeJS",
+  "deleted": false,
+  "gitSyncId": "6502d1d5f3648a063724e3fe_65097f787473ff6ef432e1c5"
+}

@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "MainMenuJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentItemTheme",
+        "value": "\"\""
+      },
+      {
+        "name": "paramsData",
+        "value": "{}"
+      },
+      {
+        "name": "MainMenuData",
+        "value": "[{\n  \"id\": \"001\",\n  \"navigateTo\": \"Workorders\",\n  \"text\": TextJS[appsmith.store.LANG].NAVIGATION_MENU.WORKORDERS,\n  \"theme\": \"secondary\",\n  \"icon\": \"shopping-cart\"\n}, {\n  \"id\": \"002\",\n  \"navigateTo\": \"Machine\",\n  \"text\": TextJS[appsmith.store.LANG].NAVIGATION_MENU.MACHINE,\n  \"theme\": \"primary\",\n  \"icon\": \"chart\"\n}]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_MainMenuJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_652d1b40c4da743ace519cc1"
+}

@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ApiJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "application",
+        "value": "'frontend.global.user'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_ApiJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_652d1b40c4da743ace519caf"
+}

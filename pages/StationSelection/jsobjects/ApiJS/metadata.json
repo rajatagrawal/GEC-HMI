@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "ApiJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "responsestatus",
+        "value": "''"
+      },
+      {
+        "name": "application",
+        "value": "'frontend.global.user'"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_ApiJS",
+  "deleted": false,
+  "gitSyncId": "650cae320a62ff2d10818615_6514875bef34c93426edacfb"
+}

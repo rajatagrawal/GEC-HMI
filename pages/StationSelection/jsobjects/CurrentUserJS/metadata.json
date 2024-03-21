@@ -1,0 +1,56 @@
+{
+  "unpublishedCollection": {
+    "name": "CurrentUserJS",
+    "pageId": "StationSelection",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "currentUserData",
+        "value": "\"\""
+      },
+      {
+        "name": "currentUserName",
+        "value": "\"\""
+      },
+      {
+        "name": "allPlantsForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "defaultPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "getPlantForCurrentUser",
+        "value": "\"\""
+      },
+      {
+        "name": "dateAndTimeLastDeployedOrCurrentDay",
+        "value": "\"\""
+      },
+      {
+        "name": "fromWhereDateAndTimeLastDiployed",
+        "value": "\"\""
+      },
+      {
+        "name": "compilationVersion",
+        "value": "\"\""
+      },
+      {
+        "name": "newObjectWithAllPlantsForCurrentUser",
+        "value": "[]"
+      },
+      {
+        "name": "userNameAndPlantToShow",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "StationSelection_CurrentUserJS",
+  "deleted": false,
+  "gitSyncId": "64fb7d696cd14454f69542a6_650036a659ebcb1cf99b838f"
+}

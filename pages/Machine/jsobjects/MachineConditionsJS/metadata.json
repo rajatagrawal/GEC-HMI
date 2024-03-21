@@ -1,0 +1,80 @@
+{
+  "unpublishedCollection": {
+    "name": "MachineConditionsJS",
+    "pageId": "Machine",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "allConditionGroups",
+        "value": "[]"
+      },
+      {
+        "name": "conditionGroupsToShow",
+        "value": "[]"
+      },
+      {
+        "name": "currentPage_MCG",
+        "value": "1"
+      },
+      {
+        "name": "startIndex_MCG",
+        "value": "0"
+      },
+      {
+        "name": "disabledPreviousPage_MCG_BTN",
+        "value": "true"
+      },
+      {
+        "name": "disabledNextPage_MCG_BTN",
+        "value": "false"
+      },
+      {
+        "name": "selectedMachineConditionGroups",
+        "value": "[]"
+      },
+      {
+        "name": "conditionGroups",
+        "value": "[]"
+      },
+      {
+        "name": "bgSelectedMachineConditionGroups",
+        "value": "'#383838'"
+      },
+      {
+        "name": "splittingDataOf_MCG_ToShowIntoThreeColumns",
+        "value": "[[], [], []]"
+      },
+      {
+        "name": "allPagesMachineConditionGroups",
+        "value": "1"
+      },
+      {
+        "name": "maxItemsOnPageMachineConditionGroups",
+        "value": "6"
+      },
+      {
+        "name": "block_MCG_Btn",
+        "value": "false"
+      },
+      {
+        "name": "hide_MCG_List1",
+        "value": "false"
+      },
+      {
+        "name": "hide_MCG_List2",
+        "value": "false"
+      },
+      {
+        "name": "hide_MCG_List3",
+        "value": "false"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Machine_MachineConditionsJS",
+  "deleted": false,
+  "gitSyncId": "651abd2f9008da6b45c03334_652d1b40c4da743ace519cb5"
+}
